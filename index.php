@@ -6,12 +6,21 @@
     <title>Dokumen</title>
 </head>
 <body>
-    <h1>Judul</h1>
-    <ul>
-        <li>Satu</li>
-        <li>Dua</li>
-        <li>Tiga</li>
-    </ul>
+    <header>
+        <h1>Judul</h1>
+    </header>
+    <div class="menu"> 
+        <ul>
+            <li>Satu</li>
+            <li>Dua</li>
+            <li>Tiga</li>
+        </ul>
+    </div>
+    <footer>
+        <p>Footer</p>
+    </footer>
+    
+   
     
 </body>
 </html>
