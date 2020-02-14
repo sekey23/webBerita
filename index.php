@@ -6,6 +6,12 @@
     <title>Dokumen</title>
 </head>
 <body>
+    <h1>Judul</h1>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+        <li>Tiga</li>
+    </ul>
     
 </body>
 </html>
